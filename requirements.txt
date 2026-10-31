@@ -1,0 +1,8 @@
+# GenLayer toolchain, pinned to the exact commits this repository was verified with.
+genlayer-py @ git+https://github.com/genlayerlabs/genlayer-py@a3dc35e04898e3889cbfa855bcaf7d2664675b8f
+genlayer-test @ git+https://github.com/genlayerlabs/genlayer-testing-suite@9c09578b143905471fb0657dd53bdaf18da8e35f
+genvm-linter @ git+https://github.com/genlayerlabs/genvm-linter@28450e665666300fc648dbe495110dfd0cb6a7b4
+requests>=2.31.0
+python-dotenv>=1.0.1
+eth-account>=0.13.3
+eth-utils>=5.0.0
